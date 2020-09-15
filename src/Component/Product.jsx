@@ -3,7 +3,7 @@ import React from 'react';
 const Product = (props) => {
     return (
         <div>
-            <img src={props.gambar} className="gambar-makanan"/>
+            <img src={props.gambar} className="gambar-makanan" alt=""/>
             <h3 className="makanan">{props.makanan}</h3>
             <h3 className="harga">{props.harga}</h3>
             <hr/>
