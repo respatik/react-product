@@ -1,0 +1,13 @@
+.gambar-makanan{
+  width: 300px;
+  height: 300px;
+}
+
+.list-makanan{
+  text-align: center;
+  margin: 3em auto 3em auto;
+}
+
+h1{
+  text-align: center;
+}
